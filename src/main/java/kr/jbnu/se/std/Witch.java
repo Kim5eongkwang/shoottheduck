@@ -23,7 +23,7 @@ public class Witch extends MovingObject {
      * How many points is a duck worth?
      */
     public static int[][] objectLines = {
-                                       {Framework.frameWidth, (int)(Framework.frameHeight * 0.10), -20, 200},
+                                       {Framework.frameWidth, (int)(Framework.frameHeight * 0.1), -20, 200},
                                        {Framework.frameWidth, (int)(Framework.frameHeight * 0.3), -20, 200},
                                        {Framework.frameWidth, (int)(Framework.frameHeight * 0.4), -20, 200},
                                        {Framework.frameWidth, (int)(Framework.frameHeight * 0.5), -20, 200}
